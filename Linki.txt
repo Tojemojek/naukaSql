@@ -1,0 +1,5 @@
+Cały kurs:
+https://www.w3resource.com/sql/tutorials.php
+
+Ćwiczenia
+https://www.w3resource.com/sql-exercises/index.php
